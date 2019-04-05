@@ -3,4 +3,4 @@ https://guides.github.com/activities/hello-world/
 
 This document has been edited in the readme-edits branch prior to commit.
 
-It was edited again using VS Code, with changes hopefully being merged via the GitHub Desktop Client!
+The desktop-test branch was used to make changes without editing the master brach directly! All this was done using VS Code and the GitHub desktop client.
